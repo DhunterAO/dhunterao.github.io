@@ -21,7 +21,7 @@
 title: 闲思偶寄
 email: zabuaathu@gmail.com
 description: | # 使用竖线 (|) 保留 YAML 字面上的换行
-  自幼读帝王将相，岂甘心贩夫走卒
+  自幼读帝王将相，岂甘心贩夫走卒。
   大丈夫人间一趟，当留的此名千古。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
